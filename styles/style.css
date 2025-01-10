@@ -146,7 +146,7 @@
     color: white;
     border: none;
 }
-.lower-part{
+.lower-part,.lower-part2{
     display: flex;
     margin: 32px 160px 0px 160px;
     justify-content: space-between;
@@ -160,4 +160,10 @@
     height: 290px;
     width: 744px;
 
+}
+.lower-part2{
+    width: 1280px;
+    height: 402px;
+    border-radius: 24px;
+    gap: 32px;
 }
