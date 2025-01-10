@@ -93,7 +93,7 @@
    border-radius: 16px;
 }
 .next{
-    height: 765px;
+    height: auto;
     width: 1280px;
     padding: 80px 160px;
     font-family: "Open Sans", serif;
@@ -122,6 +122,19 @@
     background-color: #FFFFFF;
     border-radius: 16px solid white;
 }
+.third-part{
+    height: 120px;
+    width: 1280px;
+    padding: 80px 160px 32px 160px;
+}
+.news{
+    font-size: 40px;
+    font-weight: 700;
+    gap: 24px;
+}
+.bangladesh{
 
-
+    font-size: 16px;
+    font-weight: 400;
+}
 
