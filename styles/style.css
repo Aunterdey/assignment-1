@@ -137,4 +137,27 @@
     font-size: 16px;
     font-weight: 400;
 }
+.more{
+    background-color: #006A50;
+    border-radius: 8px;
+    padding: 13px 26px 13px 26px;
+    height: 48px;
+    width: 139;
+    color: white;
+    border: none;
+}
+.lower-part{
+    display: flex;
+    margin: 32px 160px 0px 160px;
+    justify-content: space-between;
+    gap: 32px;
+}
+.date{
+    display: flex;
+    gap: 10px;
+}
+.bangla{
+    height: 290px;
+    width: 744px;
 
+}
