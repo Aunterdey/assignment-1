@@ -1,0 +1,127 @@
+.container-2{
+ height: 434px;   
+ width: 474px;
+ padding: 80px 100px 80px 0px;
+}
+.tt{
+    display: flex;
+    background-color: #C6E4D6;
+    margin: 10px 160px 80px 160px;
+    background-size: auto;
+    gap: 100px;
+}
+.container-1{
+    height: 326px;
+    width: 622px;
+    padding: 134px 0px 134px 59px;
+    /* gap: 100px; */
+}
+
+  
+.work-sans-normal{
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight:medium;
+  font-size: 24px;
+  font-style: normal;
+}
+.Text{
+    background-color:#006A50;
+    display:inline-block;
+    height: 56px;
+    width: 270px;
+    color: white;
+    margin: none;
+    border: none;
+    border-radius: 8px;
+}
+.idea{
+    /* padding: 24px; */
+    font-size: 56px;
+    font-weight: 800;
+}
+.learn-1{
+    height: 41px;
+    width: 122px;
+    color: white;
+    background-color: #5490F5;
+    border-radius: 8px;
+    display: inline-block;
+    margin: none;
+    border: none;
+    /* padding-left: 32px; */
+}
+.learn-2{
+    height: 41px;
+    width: 122px;
+    color: white;
+    background-color:#09A15C;
+    border-radius: 8px;
+    display: inline-block;
+    margin: none;
+    border: none;
+    /* padding-left: 32px; */
+}
+.learn-3{
+    height: 41px;
+    width: 122px;
+    color: white;
+    background-color:#FFC239;
+    border-radius: 8px;
+    display: inline-block;
+    margin: none;
+    border: none;
+    /* padding-left: 24px; */
+}
+.first{
+    background-color:#326ED2;
+    border-radius: 16px;
+}
+.second{
+    background-color:#C6E4D6;
+    border-radius: 16px;
+}
+.third{
+    background-color: #F7EBCF;
+    border-radius: 16px;
+
+}
+.between{
+   display: flex; 
+   justify-content: space-between;
+   gap: 24px;
+   border-radius: 16px;
+}
+.next{
+    height: 765px;
+    width: 1280px;
+    padding: 80px 160px;
+    font-family: "Open Sans", serif;
+          font-optical-sizing: auto;
+          font-weight:800;
+          font-style: normal;
+          font-variation-settings:
+            "wdth" 100;
+        }
+      
+/* .modern{
+    font-size:40px;
+    font-weight: 800; */
+    
+/* } */
+.vision{
+    font-size: 40px;
+    font-weight: 800;
+}
+.lorem{
+    margin-top: 32px 160px 80px 32px;
+    background-image: url(/B11A1--assignment-1/assets/quote-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    justify-content: start;
+    background-color: #FFFFFF;
+    border-radius: 16px solid white;
+}
+
+
+
