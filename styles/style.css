@@ -173,6 +173,8 @@
     padding: 32px 104px 32px 104px;
     justify-content:space-between;
     background-color: #FFFFFF;
+    height: 128px;
+    width: 1071px;
 }
 .donate{
     height: 464px;
@@ -182,14 +184,18 @@
 .today{
     justify-items: center;
     padding-bottom: 24px;
+    font-size: 40px;
+    font-weight: 700;
 }
 .input{
-    display: inline-block;
+    /* display: inline-block; */
     color: #FFFFFF;
     width: 1032px;
     height: 64px;
-    border: 1px solid white;
+    border: solid white;
     gap: 24;
+     padding: 20px 40px;
+    
 }
 .mm{
     text-align: center;
@@ -198,6 +204,46 @@
 .bb{
     /* height: 48px;
     width: 120px; */
-    gap: 24px;
+    margin-top: 24px;
+    border: 0px 160px;
 }
-
+.text{
+    display: inline;
+}
+.H1 {
+    height: 48px;
+    width: 160px;
+    border-radius: 16px;
+    border: 1px solid;
+    padding: 40px;
+    justify-content: center;
+    border-radius: 16px;
+}
+.H2{
+  padding: 40px;
+  border-width: 160px;
+  border: 1px solid;
+  height: 48px;
+  background-color: #C6E4D6;
+  border-radius: 16px;
+  width: 160px;
+}
+.H3{
+    padding: 40px;
+  border-width: 160px;
+  border: 1px solid;
+  height: 48px;
+  border-radius: 16px;
+  width: 160px;
+}
+.H4{
+    padding: 40px;
+  border-width: 160px;
+  border: 1px solid;
+  height: 48px;
+  border-radius: 16px;
+  width: 160px;
+}
+.tumi{
+    justify-content: center;
+}
