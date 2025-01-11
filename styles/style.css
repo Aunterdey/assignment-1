@@ -145,7 +145,11 @@
     width: 139;
     color: white;
     border: none;
-}
+    align-items: center;
+    justify-content: center;
+    display: inline-block;}
+    
+    
 .lower-part,.lower-part2{
     display: flex;
     margin: 32px 160px 0px 160px;
@@ -170,11 +174,14 @@
 .amount{
     display: flex;
     gap: 24px;
-    padding: 32px 104px 32px 104px;
-    justify-content:space-between;
+    padding: 25px 104px 32px 104px;
+    justify-content:center;
     background-color: #FFFFFF;
     height: 128px;
     width: 1071px;
+    border: none;
+    margin: none;
+    text-align: center;
 }
 .donate{
     height: 464px;
@@ -188,13 +195,18 @@
     font-weight: 700;
 }
 .input{
-    /* display: inline-block; */
-    color: #FFFFFF;
+    display: flex;
+    /* color: #FFFFFF; */
     width: 1032px;
     height: 64px;
-    border: solid white;
-    gap: 24;
-     padding: 20px 40px;
+    /* gap: 24; */
+    background-color:#FFFFFF;
+     text-align: center;
+     justify-content: center;
+     border-style: none;
+     border-right: 124px;
+     margin: none;
+     border-color: #FFFFFF;
     
 }
 .mm{
@@ -208,7 +220,16 @@
     border: 0px 160px;
 }
 .text{
-    display: inline;
+    display: flex;
+    /* padding: 20px 40px; */
+   color: white;
+    /* border: solid white; */
+    align-items: center;
+    justify-content: center;
+    height: 24px;
+    width: 187px;
+    padding: 20px 420px;
+    border: none;
 }
 .H1 {
     height: 48px;
@@ -247,3 +268,19 @@
 .tumi{
     justify-content: center;
 }
+.text-center{
+    text-align: center;
+}
+.done{
+    background-color: #006A50;
+    border-radius: 8px;
+    padding: 13px 26px 13px 26px;
+    height: 48px;
+    width: 139;
+    color: white;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+}
+    
